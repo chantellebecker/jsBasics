@@ -1,3 +1,5 @@
+// To practice concatenation and arithmetic operators
+
 var input1 = prompt("Please type a starting number");
 var bottomNumber = parseInt(input1);
 var input = prompt("Please type a number");

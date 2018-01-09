@@ -1,3 +1,5 @@
+// To practice storing and tracking information with variables
+
 "<h2>One day a [adjective] child wanted to [verb] to see their [noun], but was unable to because of work.</h2>"
 
 var questions = 3;

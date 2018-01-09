@@ -1,3 +1,5 @@
+// To practice concatenation and arithmetic operators
+
 var secondsPerMin = 60;
 var minsPerHour = 60;
 var hoursPerDay = 24;
